@@ -1,4 +1,5 @@
 **Chaty**
+#Have a look at the releases tab, to look how you can use this tool!
 ###A chatbot that can learn from you!
 
 > This is a very simple chatbot, written in python that can learn from you by asking you the questions it does not know the answer to, its perfect if you want a chatbot with your own personal questions and answers!
