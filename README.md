@@ -1,6 +1,6 @@
 **Chaty**
 
-# Have a look at the releases tab, to look how you can use this tool!
+# Have a look at the releases tab, to learn how you can use this tool!
 
 ## A chatbot that can learn from you!
 
